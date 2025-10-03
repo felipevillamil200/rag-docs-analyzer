@@ -1,0 +1,50 @@
+# ============================================
+# RAG Intelligence Platform - Requirements
+# ============================================
+
+# Core Framework
+gradio>=4.0.0
+python-dotenv>=1.0.0
+
+# AI & Machine Learning
+cerebras-cloud-sdk>=1.0.0
+langchain>=0.1.0
+langchain-community>=0.0.10
+
+# Vector Database
+chromadb>=0.4.18
+
+# Document Processing
+PyPDF2>=3.0.0
+python-docx>=1.1.0
+
+# Text Processing
+tiktoken>=0.5.0
+unstructured>=0.10.0
+
+# Data Manipulation
+pandas>=2.0.0
+numpy>=1.24.0
+
+# HTTP & API
+requests>=2.31.0
+urllib3>=2.0.0
+
+# Environment & Config
+pydantic>=2.0.0
+pydantic-settings>=2.0.0
+
+# Utilities
+tqdm>=4.66.0
+colorama>=0.4.6
+
+# Optional: Enhanced Features
+# report-lab>=4.0.0  # Para generación de reportes PDF
+# pillow>=10.0.0     # Para procesamiento de imágenes
+# markdown>=3.5.0    # Para renderizado markdown
+
+# Development Tools (optional)
+# pytest>=7.4.0
+# black>=23.0.0
+# flake8>=6.0.0
+# mypy>=1.5.0
