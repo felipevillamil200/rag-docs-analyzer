@@ -130,12 +130,6 @@ http://127.0.0.1:7860
 
 ---
 
-## 📌 Próximos pasos
-
-* [ ] Permitir carga de **múltiples documentos** en la misma sesión.
-* [ ] Agregar módulo de **evaluación automática de respuestas** (precisión/relevancia).
-* [ ] Exponer la solución como **API REST (FastAPI)**.
-* [ ] Desplegar en **Hugging Face Spaces** para demo pública.
 
 ---
 
