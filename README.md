@@ -1,5 +1,3 @@
-¡Excelente Felipe! 🙌
-Ya que tu proyecto ahora **sí incluye análisis automático de contratos + generación de reportes en PDF + mejoras visuales en Gradio**, actualicé tu README para que refleje todas estas capacidades reales (y no quede como “futuro” solamente).
 
 ---
 
