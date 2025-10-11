@@ -140,7 +140,7 @@ http://127.0.0.1:7860
 
 ## ✨ Autor
 
-Proyecto desarrollado por **Felipe** como portafolio para vacantes en IA Generativa.
+Proyecto desarrollado por **Felipe** como portafolio en IA Generativa.
 
 ```
 
